@@ -32,10 +32,3 @@ Attributes:
 # References
 
 
-
-
-
-Output (desired target):
-fit - how fit the candidate is for the role? (numeric, probability between 0-1)
-
-Keywords: “Aspiring human resources” or “seeking human resources”
